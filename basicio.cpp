@@ -1,5 +1,6 @@
 #include<iostream>
 #include<string>
+//to include all headers at once we use #include<bitc/stdc++.h/>
 using namespace std;
 int main(){
     string x;
