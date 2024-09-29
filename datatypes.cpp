@@ -12,9 +12,13 @@ int main()
     //float- includes decimal numebers as well
     float z;
     cin>>z;
-    cin>>y;
+    cin>>y;//upddates the value of already existing y
+    //double- same as float but has more space
+    double a;
+    cin>>a;
     cout<<"value of x is:"<<x<<endl;
     cout<<"value of y is:"<<y<<endl;
     cout<<"value of z is:"<<z<<endl;
+    cout<<"value of a is:"<<a<<endl;
    return 0;
 }
