@@ -14,5 +14,5 @@ int main()
     cout<<"enter a single character ";
     cin>>ch;
     cout<<ch;
-   return 0;
+    return 0;
 }
