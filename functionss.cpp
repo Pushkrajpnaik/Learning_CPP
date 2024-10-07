@@ -20,6 +20,9 @@ using namespace std;
 //     string name;
 //     cin>>name;
 //     printName(name);
+//     string name2;
+//     cin>>name2;
+//     printName
 //     return 0; 
 // }
 
